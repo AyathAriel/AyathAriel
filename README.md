@@ -3,24 +3,27 @@
   <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="180"/>
 </p>
 
-<!-- SELECTOR IDIOMA -->
+<!-- SELECTOR DE IDIOMA -->
 <p align="center">
   <a href="#español">🇪🇸 Español</a> | <a href="#english">🇬🇧 English</a>
 </p>
 
 ---
 
-### 🇪🇸 Español
+## 🇪🇸 Español
+
 <h1 align="center">Ariel Medina</h1>
 <p align="center"><strong>Desarrollador FullStack & AI</strong> · Panamá 🇵🇦</p>
-<p align="center"><samp>
-  <strong>Transformo ideas en soluciones digitales con tecnología, IA y visión de negocio.</strong><br>
-  CEO en <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
-</samp></p>
+<p align="center">
+  <samp>
+    <strong>Transformo ideas en soluciones digitales con tecnología e IA.</strong><br>
+    CEO en <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
+  </samp>
+</p>
 
 ---
 
-<!-- BADGES -->
+### 🛠️ Stack Tecnológico
 <p align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/FastAPI-21C784?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -32,9 +35,9 @@
 
 ---
 
-### 💻 Skills & Stack
+### 💻 Skills & Estadísticas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,supabase,docker,postgresql,js,ts,github,git,linux,vscode,figma" height="30"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,supabase,docker,js,ts,git,github,linux,vscode"/>
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyathAriel&theme=github_dark"/>
@@ -55,37 +58,27 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 👁️ Contador de Visitas
 <p align="center">
-  <a href="https://github.com/AyathAriel/invoice-ado" target="_blank">
-    <img alt="ADO Invoice" src="https://raw.githubusercontent.com/AyathAriel/invoice-ado/main/banner.png" width="320" style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
-    <br><strong>ADO Invoice</strong><br><sub>Facturación electrónica inteligente con FastAPI & IA</sub>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AyathAriel/uber-app-panama" target="_blank">
-    <img alt="Uber App Panama" src="https://raw.githubusercontent.com/AyathAriel/uber-app-panama/main/banner.png" width="320" style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
-    <br><strong>Uber App Panama</strong><br><sub>Movilidad urbana con React + Python</sub>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=AyathAriel&color=brightgreen&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ### 🤝 ¿En qué te puedo ayudar?
 <p align="center">
-  ✔️ Consultorías de software<br>
-  ✔️ APIs & arquitecturas backend<br>
+  ✔️ Consultorías de software y automatización<br>
+  ✔️ Diseño y arquitectura de APIs<br>
   ✔️ Integración de IA y chatbots<br>
-  ✔️ Digitalización de negocios<br>
-  ✔️ Mentoría y workshops
+  ✔️ Transformación digital de negocios<br>
+  ✔️ Mentoría técnica y workshops
 </p>
 
 ---
 
-### 📲 Contáctame directo
+### 📲 Contáctame
 <p align="center">
-  <a href="https://linkedin.com/in/ayathariel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/ayathariel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ayath1006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/AyathAriel" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://adocode.com" target="_blank"><img src="https://img.shields.io/badge/ADO_CODE-Tech-black?style=for-the-badge&logo=codeberg&logoColor=white"/></a>
@@ -101,27 +94,22 @@
 
 ### 💬 Quote del día
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates" alt="Quote" width="500"/>
-</p>
-
----
-
-### 👁‍🗨 Visitantes & Vistas
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyathAriel&color=green&style=flat-square" alt="Profile views"/>
-  <img src="https://profile-counter.glitch.me/AyathAriel/count.svg" alt="Visitor Count"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates" width="500" alt="Quote"/>
 </p>
 
 ---
 
 ### 🇬🇧 English
+
 <h1 align="center">Ariel Medina</h1>
 <p align="center"><strong>FullStack & AI Developer</strong> · Panama 🇵🇦</p>
-<p align="center"><samp>
-  <strong>I turn ideas into digital solutions with technology, AI and business vision.</strong><br>
-  CEO at <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
-</samp></p>
+<p align="center">
+  <samp>
+    <strong>I turn ideas into digital solutions with technology and AI.</strong><br>
+    CEO at <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
+  </samp>
+</p>
 
 ---
 
-<p align="center"><samp><strong>Vision. Execution. Innovation.</strong></samp></p>
+<p align="center"><strong>Vision. Execution. Innovation.</strong></p>
