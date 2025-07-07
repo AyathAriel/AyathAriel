@@ -11,7 +11,7 @@
 ---
 
 <!-- ESPAÑOL -->
-<h1 align="center" id="español">Ariel Medina</h1>
+<h1 align="center" id="español">Ayath Medina</h1>
 <p align="center"><b>Desarrollador FullStack & AI</b> · Panamá 🇵🇦</p>
 
 <p align="center">
@@ -111,7 +111,7 @@
 ---
 
 <!-- INGLÉS -->
-<h1 align="center" id="english">Ariel Medina</h1>
+<h1 align="center" id="english">Ayath Medina</h1>
 <p align="center"><b>FullStack & AI Developer</b> · Panama 🇵🇦</p>
 <p align="center">
   <samp>
