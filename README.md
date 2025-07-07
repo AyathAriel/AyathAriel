@@ -108,11 +108,21 @@
 
 ### 📲 Contáctame
 
+### 📲 Contáctame
+
 <p align="center">
-  <a href="https://linkedin.com/in/ayathariel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayath1006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/AyathAriel" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://adocode.com" target="_blank"><img src="https://img.shields.io/badge/ADO_CODE-Tech-black?style=for-the-badge&logo=codeberg&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayathariel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayath1006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/AyathAriel" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://adocode.com" target="_blank">
+    <img src="https://img.shields.io/badge/ADO_CODE-Tech-black?style=for-the-badge&logo=codeberg&logoColor=white"/>
+  </a>
 </p>
 <p align="center">
   <a href="https://wa.me/50766448655" target="_blank">
