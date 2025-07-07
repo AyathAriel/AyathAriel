@@ -3,13 +3,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jnc2w1bTNkNmxlNTJzeGgzN3psazc2aW15dnljZ2U4MGFocnU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="210"/>
 </p>
 
-<h1 align="center" style="font-size:2.4rem; font-weight: bold;">
-  Ariel Medina
-</h1>
-<p align="center" style="font-size:1.2rem;">
-  <b>Desarrollador FullStack & AI</b><br>
-  <span>Panamá 🇵🇦</span>
-</p>
+<h1 align="center"><b>Ariel Medina</b></h1>
+<p align="center"><b>Desarrollador FullStack & AI</b> · Panamá 🇵🇦</p>
 
 ---
 
@@ -40,26 +35,37 @@
 
 ---
 
+<!-- SECCIÓN: CONTADOR DE COMMITS -->
+<h3 align="center">🔥 Commits este año</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ayathariel" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle; margin-right:8px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyathAriel&theme=github-compact&hide_border=true&area=true&custom_title=Commits%20de%20Ariel%20Medina%20en%202025" width="700"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=AyathAriel&label=Profile%20Views&color=0e75b6&style=flat" alt="AyathAriel" />
+</p>
+
+---
+
+<!-- LINKS SOCIALES REALES Y SIEMPRE VISIBLES -->
+<p align="center">
+  <a href="https://linkedin.com/in/ayathariel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ayath1006@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" style="vertical-align:middle; margin-right:8px"/>
+  <a href="mailto:ayath1006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/AyathAriel" target="_blank" title="Telegram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="28" style="vertical-align:middle; margin-right:8px"/>
+  <a href="https://t.me/AyathAriel" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://adocode.com" target="_blank" title="ADO CODE">
-    <img src="https://img.shields.io/badge/ADO_CODE-Tech-black?style=flat-square&logo=codeberg&logoColor=white" style="vertical-align:middle; margin-left:12px"/>
+  <a href="https://adocode.com" target="_blank">
+    <img src="https://img.shields.io/badge/ADO_CODE-Tech-black?style=for-the-badge&logo=codeberg&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- ANIMACIÓN DE SNAKE DE CONTRIBUCIONES -->
+<!-- SNAKE ANIMATION FUNCIONAL (OPCIONAL) -->
 <p align="center">
-  <img src="https://github.com/AyathAriel/AyathAriel/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AyathAriel/AyathAriel/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
