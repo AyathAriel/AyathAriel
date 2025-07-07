@@ -64,19 +64,14 @@
 <h3 align="center">🚀 Proyectos Destacados</h3>
 <p align="center">
   <a href="https://github.com/AyathAriel/invoice-ado" target="_blank">
-    <img alt="ADO Invoice" src="https://raw.githubusercontent.com/AyathAriel/invoice-ado/main/banner.png" width="320" style="border-radius:12px; box-shadow: 0 2px 16px #0004;"/>
-    <br>
-    <b>ADO Invoice</b> <br>
-    <sub>Facturación electrónica inteligente con FastAPI, Supabase y IA</sub>
+    <img src="https://raw.githubusercontent.com/AyathAriel/invoice-ado/main/banner.png" width="320" style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
+    <br><b>ADO Invoice</b><br><sub>Facturación electrónica con FastAPI & IA</sub>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AyathAriel/uber-app-panama" target="_blank">
-    <img alt="Uber App Panama" src="https://raw.githubusercontent.com/AyathAriel/uber-app-panama/main/banner.png" width="320" style="border-radius:12px; box-shadow: 0 2px 16px #0004;"/>
-    <br>
-    <b>Uber App Panama</b> <br>
-    <sub>Movilidad urbana: Python + React + Supabase</sub>
+    <img src="https://raw.githubusercontent.com/AyathAriel/uber-app-panama/main/banner.png" width="320" style="border-radius:12px; box-shadow:0 4px 20px rgba(0,0,0,0.3);"/>
+    <br><b>Uber App Panama</b><br><sub>App movilidad urbana — React + Python</sub>
   </a>
-  <!-- Puedes subir tus propios banners a cada repo en GitHub y enlazarlos aquí -->
 </p>
 
 ---
