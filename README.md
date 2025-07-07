@@ -70,6 +70,6 @@
 <!-- FRASE CORPORATIVA SUTIL -->
 <p align="center">
   <samp>
-    <b>Visión. Ejecución. Innovación.</b>
+    <b>Visión. Ejecución. Innovación..</b>
   </samp>
 </p>
