@@ -1,9 +1,9 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jnc2w1bTNkNmxlNTJzeGgzN3psazc2aW15dnljZ2U4MGFocnU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="170"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jnc2w1bTNkNmxlNTJzeGgzN3psazc2aW15dnljZ2U4MGFocnU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="150"/>
 </p>
 
-<!-- SELECTOR IDIOMA -->
+<!-- IDIOMA -->
 <p align="center">
   <a href="#español">🇪🇸 Español</a> | <a href="#english">🇬🇧 English</a>
 </p>
@@ -11,24 +11,25 @@
 ---
 
 <!-- ESPAÑOL -->
-<h1 align="center" id="español">Ayath Medina</h1>
+<h1 align="center" id="español">Ariel Medina</h1>
 <p align="center"><b>Desarrollador FullStack & AI</b> · Panamá 🇵🇦</p>
 
 <p align="center">
   <samp>
     <b>Transformo ideas en soluciones digitales con tecnología, IA y visión de negocio.</b><br>
+    CEO en <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
   </samp>
 </p>
 
 ---
 
-<!-- STACK -->
+<!-- STACK COLORIDO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&logo=fastapi&logoColor=44DD9A"/>
-  <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Supabase-181717?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-  <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/FastAPI-21C784?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Supabase-2E7D32?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -49,26 +50,33 @@
 <!-- ESTADÍSTICAS Y CONTADOR DE COMMITS -->
 <h3 align="center">Actividad y Commits</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" width="390" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=github-dark&hide_border=true" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true" width="390" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=radical&hide_border=true" width="340"/>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyathAriel&theme=github-compact&hide_border=true&area=true" width="700"/>
   <br>
-  <img src="https://badgen.net/github/commits/AyathAriel/AyathAriel/main?icon=github&color=green" />
+  <img src="https://badgen.net/github/commits/AyathAriel/AyathAriel/main?icon=github&color=orange" />
 </p>
 
 ---
 
-<!-- CARDS DE PROYECTOS DESTACADOS -->
+<!-- PROYECTOS DESTACADOS ULTRA VISUALES (cards personalizadas) -->
 <h3 align="center">🚀 Proyectos Destacados</h3>
 <p align="center">
   <a href="https://github.com/AyathAriel/invoice-ado" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyathAriel&repo=invoice-ado&theme=github_dark&hide_border=true" width="320"/>
+    <img alt="ADO Invoice" src="https://raw.githubusercontent.com/AyathAriel/invoice-ado/main/banner.png" width="320" style="border-radius:12px; box-shadow: 0 2px 16px #0004;"/>
+    <br>
+    <b>ADO Invoice</b> <br>
+    <sub>Facturación electrónica inteligente con FastAPI, Supabase y IA</sub>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/AyathAriel/uber-app-panama" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyathAriel&repo=uber-app-panama&theme=github_dark&hide_border=true" width="320"/>
+    <img alt="Uber App Panama" src="https://raw.githubusercontent.com/AyathAriel/uber-app-panama/main/banner.png" width="320" style="border-radius:12px; box-shadow: 0 2px 16px #0004;"/>
+    <br>
+    <b>Uber App Panama</b> <br>
+    <sub>Movilidad urbana: Python + React + Supabase</sub>
   </a>
-  <!-- Agrega más proyectos cambiando el repo -->
+  <!-- Puedes subir tus propios banners a cada repo en GitHub y enlazarlos aquí -->
 </p>
 
 ---
@@ -76,11 +84,11 @@
 <!-- ¿EN QUÉ TE PUEDO AYUDAR? -->
 <h3 align="center">🤝 ¿En qué te puedo ayudar?</h3>
 <p align="center">
-  <b>✔️ Consultorías de software y automatización<br>
+  ✔️ Consultorías de software y automatización<br>
   ✔️ Arquitectura y desarrollo de APIs<br>
   ✔️ Integración de IA y chatbots<br>
   ✔️ Transformación digital de negocios<br>
-  ✔️ Mentoría técnica y workshops</b>
+  ✔️ Mentoría técnica y workshops
 </p>
 
 ---
@@ -111,7 +119,7 @@
 ---
 
 <!-- INGLÉS -->
-<h1 align="center" id="english">Ayath Medina</h1>
+<h1 align="center" id="english">Ariel Medina</h1>
 <p align="center"><b>FullStack & AI Developer</b> · Panama 🇵🇦</p>
 <p align="center">
   <samp>
