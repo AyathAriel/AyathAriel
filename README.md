@@ -108,10 +108,8 @@
 
 ### 📲 Contáctame
 
-### 📲 Contáctame
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayathariel/" target="_blank">
+  <a href="https://www.linkedin.com/in/ayath-medina-84ba16328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ayath1006@gmail.com">
