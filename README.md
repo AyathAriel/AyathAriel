@@ -17,7 +17,6 @@
 <p align="center">
   <samp>
     <b>Transformo ideas en soluciones digitales con tecnología, IA y visión de negocio.</b><br>
-    CEO en <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
   </samp>
 </p>
 
