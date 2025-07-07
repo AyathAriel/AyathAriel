@@ -12,12 +12,11 @@
 
 ## 🇪🇸 Español
 
-<h1 align="center">Ariel Medina</h1>
+<h1 align="center">Ayath Ariel Medina</h1>
 <p align="center"><strong>Desarrollador FullStack & AI</strong> · Panamá 🇵🇦</p>
 <p align="center">
   <samp>
     <strong>Transformo ideas en soluciones digitales con tecnología e IA.</strong><br>
-    CEO en <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
   </samp>
 </p>
 
@@ -101,7 +100,7 @@
 
 ### 🇬🇧 English
 
-<h1 align="center">Ariel Medina</h1>
+<h1 align="center">Ayath Ariel Medina</h1>
 <p align="center"><strong>FullStack & AI Developer</strong> · Panama 🇵🇦</p>
 <p align="center">
   <samp>
