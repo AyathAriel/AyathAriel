@@ -1,12 +1,18 @@
-<!-- HEADER GIF ANIMADO -->
+<!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jnc2w1bTNkNmxlNTJzeGgzN3psazc2aW15dnljZ2U4MGFocnU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="210"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Jnc2w1bTNkNmxlNTJzeGgzN3psazc2aW15dnljZ2U4MGFocnU5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="170"/>
 </p>
 
-<h1 align="center"><b>Ariel Medina</b></h1>
-<p align="center"><b>Desarrollador FullStack & AI</b> · Panamá 🇵🇦</p>
+<!-- SELECTOR IDIOMA -->
+<p align="center">
+  <a href="#español">🇪🇸 Español</a> | <a href="#english">🇬🇧 English</a>
+</p>
 
 ---
+
+<!-- ESPAÑOL -->
+<h1 align="center" id="español">Ariel Medina</h1>
+<p align="center"><b>Desarrollador FullStack & AI</b> · Panamá 🇵🇦</p>
 
 <p align="center">
   <samp>
@@ -17,6 +23,7 @@
 
 ---
 
+<!-- STACK -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/FastAPI-181717?style=for-the-badge&logo=fastapi&logoColor=44DD9A"/>
@@ -28,24 +35,59 @@
 
 ---
 
+<!-- BARRA ANIMADA DE SKILLS -->
+<h3 align="center">Skills & Stack</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=github-dark&hide_border=true" width="360"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,supabase,docker,postgresql,js,ts,github,git,linux,vscode,figma" height="32"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyathAriel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyathAriel&theme=github_dark" />
 </p>
 
 ---
 
-<!-- SECCIÓN: CONTADOR DE COMMITS -->
-<h3 align="center">🔥 Commits este año</h3>
+<!-- ESTADÍSTICAS Y CONTADOR DE COMMITS -->
+<h3 align="center">Actividad y Commits</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyathAriel&theme=github-compact&hide_border=true&area=true&custom_title=Commits%20de%20Ariel%20Medina%20en%202025" width="700"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" width="390" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=github-dark&hide_border=true" width="340"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=AyathAriel&label=Profile%20Views&color=0e75b6&style=flat" alt="AyathAriel" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyathAriel&theme=github-compact&hide_border=true&area=true" width="700"/>
+  <br>
+  <img src="https://badgen.net/github/commits/AyathAriel/AyathAriel/main?icon=github&color=green" />
 </p>
 
 ---
 
-<!-- LINKS SOCIALES REALES Y SIEMPRE VISIBLES -->
+<!-- CARDS DE PROYECTOS DESTACADOS -->
+<h3 align="center">🚀 Proyectos Destacados</h3>
+<p align="center">
+  <a href="https://github.com/AyathAriel/invoice-ado" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyathAriel&repo=invoice-ado&theme=github_dark&hide_border=true" width="320"/>
+  </a>
+  <a href="https://github.com/AyathAriel/uber-app-panama" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyathAriel&repo=uber-app-panama&theme=github_dark&hide_border=true" width="320"/>
+  </a>
+  <!-- Agrega más proyectos cambiando el repo -->
+</p>
+
+---
+
+<!-- ¿EN QUÉ TE PUEDO AYUDAR? -->
+<h3 align="center">🤝 ¿En qué te puedo ayudar?</h3>
+<p align="center">
+  <b>✔️ Consultorías de software y automatización<br>
+  ✔️ Arquitectura y desarrollo de APIs<br>
+  ✔️ Integración de IA y chatbots<br>
+  ✔️ Transformación digital de negocios<br>
+  ✔️ Mentoría técnica y workshops</b>
+</p>
+
+---
+
+<!-- CONTACTO Y QR WHATSAPP -->
+<h3 align="center">📲 Contáctame directo</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ayathariel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -60,12 +102,23 @@
     <img src="https://img.shields.io/badge/ADO_CODE-Tech-black?style=for-the-badge&logo=codeberg&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://wa.me/50766448655" target="_blank">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=https://wa.me/50766448655" alt="WhatsApp QR" width="120">
+    <br><sub>Escanea o haz clic para WhatsApp</sub>
+  </a>
+</p>
 
 ---
 
-<!-- SNAKE ANIMATION FUNCIONAL (OPCIONAL) -->
+<!-- INGLÉS -->
+<h1 align="center" id="english">Ariel Medina</h1>
+<p align="center"><b>FullStack & AI Developer</b> · Panama 🇵🇦</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyathAriel/AyathAriel/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <samp>
+    <b>I turn ideas into digital solutions with technology, AI and business vision.</b><br>
+    CEO at <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
+  </samp>
 </p>
 
 ---
