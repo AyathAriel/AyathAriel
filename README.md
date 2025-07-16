@@ -13,7 +13,6 @@
 
 <h1 align="center">Ayath Ariel Medina</h1>
 <p align="center"><strong>Desarrollador FullStack & AI • Panamá 🇵🇦</strong></p>
-CEO at <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
 <p align="center">
   <samp>
     <strong>Transformo ideas en soluciones digitales con tecnología e IA.</strong><br>
