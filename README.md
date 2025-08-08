@@ -146,7 +146,7 @@
 <p align="center">
   <samp>
     <strong>I turn ideas into digital solutions with technology and AI.</strong><br>
-    CEO at <a href="https://adocode.com" target="_blank">ADO CODE Technologies</a>
+    CEO at <a href="https://adocodetech.com" target="_blank">ADO CODE Technologies</a>
   </samp>
 </p>
 
