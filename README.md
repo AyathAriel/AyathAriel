@@ -1,122 +1,156 @@
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   AYATH ARIEL MEDINA                                                │
-│   FullStack Engineer & AI Systems Developer                         │
-│   Panama City, Panama                                               │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayath%20Ariel%20Medina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20Engineer%20%26%20AI%20Developer%20%7C%20Panama%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=16"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayath-medina-84ba16328/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayath1006@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AyathAriel)
-[![ADO CODE](https://img.shields.io/badge/ADO_CODE_Tech-000000?style=flat-square&logo=codeberg&logoColor=white)](https://adocode.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/50766448655)
-[![Profile Views](https://komarev.com/ghpvc/?username=AyathAriel&color=0A66C2&style=flat-square&label=profile+views)](https://github.com/AyathAriel)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Transformo+ideas+en+productos+reales+%F0%9F%9A%80;FullStack+%2B+IA+%3D+soluciones+que+escalan+%E2%9A%A1;CEO+%40+ADO+CODE+Technologies+%F0%9F%A7%A0;Construyendo+el+futuro+desde+Panam%C3%A1+%F0%9F%87%B5%F0%9F%87%A6)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://www.linkedin.com/in/ayath-medina-84ba16328/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayath1006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/AyathAriel"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://wa.me/50766448655"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://adocode.com"><img src="https://img.shields.io/badge/ADO_CODE-Tech-6C63FF?style=for-the-badge&logo=codeberg&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AyathAriel&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" />
 
 </div>
 
 ---
 
-## About
+## 🧠 Sobre mí
 
-I'm a FullStack & AI developer focused on building real products that solve real problems — from API architecture and automation systems to AI integrations and digital transformation for businesses.
-
-CEO at **[ADO CODE Technologies](https://adocode.com)** — where we help companies leverage software and AI to grow.
-
-```python
-ayath = {
-    "location"    : "Panama City, Panama 🇵🇦",
-    "role"        : "FullStack Engineer & AI Developer",
-    "company"     : "ADO CODE Technologies",
-    "focus"       : ["Product Development", "AI Integration", "API Architecture"],
-    "available"   : True  # Open to consulting & collaborations
-}
+```yaml
+nombre:      Ayath Ariel Medina
+ubicación:   Ciudad de Panamá, Panamá 🇵🇦
+empresa:     ADO CODE Technologies (CEO)
+enfoque:
+  - Desarrollo FullStack de productos reales
+  - Integración de IA y automatización
+  - Arquitectura de APIs escalables
+  - Transformación digital de negocios
+disponible:  true  # Consultoría · Freelance · Colaboraciones
 ```
 
 ---
 
-## Technical Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## GitHub Stats
+## ⚡ Stack Tecnológico
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&icon_color=0A66C2&text_color=24292f&bg_color=ffffff)
-&nbsp;
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=default&hide_border=true)
+### 🔤 Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=AyathAriel&theme=minimal&hide_border=true&area=true&color=0A66C2&line=0A66C2&point=0A66C2)
+### 🖥️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=222)
+![Neon](https://img.shields.io/badge/Neon-1b2936?style=for-the-badge&logo=neon&logoColor=00e599)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🛠️ Herramientas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
 ---
 
-## What I Can Help With
-
-| Area | Details |
-|---|---|
-| 🏗️ **API Architecture & Design** | REST, GraphQL, microservices, system design |
-| 🤖 **AI Integration** | LLM integration, chatbots, automation pipelines |
-| ⚡ **Software Consulting** | Technical strategy, code review, team enablement |
-| 🔄 **Digital Transformation** | Modernizing legacy systems, workflow automation |
-| 🎓 **Technical Mentorship** | Workshops, 1-on-1 coaching, team training |
-
----
-
-## Connect
-
-I'm available for consulting, freelance projects, and technical collaborations.
-
-**Reach me at** → `ayath1006@gmail.com` | [LinkedIn](https://www.linkedin.com/in/ayath-medina-84ba16328/) | [Telegram @AyathAriel](https://t.me/AyathAriel)
+## 📊 Estadísticas GitHub
 
 <div align="center">
 
-*Building reliable software. Shipping real products.*
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyathAriel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyathAriel&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Trofeos GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AyathAriel&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 ¿En qué te puedo ayudar?
+
+<div align="center">
+
+| 🏗️ Arquitectura de APIs | 🤖 Integración de IA | ⚡ Automatización |
+|:---:|:---:|:---:|
+| REST · GraphQL · Microservicios | LLMs · Chatbots · Pipelines | Scripts · Workflows · Bots |
+
+| 🔄 Transformación Digital | 🎓 Mentoría Técnica | 💼 Consultoría |
+|:---:|:---:|:---:|
+| Sistemas legacy · Procesos | Workshops · 1-on-1 | Estrategia · Code Review |
+
+</div>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+**¿Tienes un proyecto en mente? Hablemos.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayath-medina-84ba16328/)
+[![Gmail](https://img.shields.io/badge/ayath1006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayath1006@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/%2B507%2066448655-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50766448655)
+[![Telegram](https://img.shields.io/badge/@AyathAriel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AyathAriel)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
