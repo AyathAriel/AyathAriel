@@ -1,18 +1,17 @@
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayath%20Ariel%20Medina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20Engineer%20%26%20AI%20Developer%20%7C%20Panama%20%F0%9F%87%B5%F0%9F%87%A6&descAlignY=55&descSize=16"/>
+# 👋 Hola, soy **Ayath Ariel Medina**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Transformo+ideas+en+productos+reales+%F0%9F%9A%80;FullStack+%2B+IA+%3D+soluciones+que+escalan+%E2%9A%A1;CEO+%40+ADO+CODE+Technologies+%F0%9F%A7%A0;Construyendo+el+futuro+desde+Panam%C3%A1+%F0%9F%87%B5%F0%9F%87%A6)](https://git.io/typing-svg)
+### FullStack Engineer & AI Developer | Panama 🇵🇦
 
-<p>
-  <a href="https://www.linkedin.com/in/ayath-medina-84ba16328/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ayath1006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/AyathAriel"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://wa.me/50766448655"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://adocode.com"><img src="https://img.shields.io/badge/ADO_CODE-Tech-6C63FF?style=for-the-badge&logo=codeberg&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayath-medina-84ba16328/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayath1006@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AyathAriel)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50766448655)
+[![ADO CODE](https://img.shields.io/badge/ADO_CODE-Tech-6C63FF?style=for-the-badge&logo=codeberg&logoColor=white)](https://adocode.com)
 
-<img src="https://komarev.com/ghpvc/?username=AyathAriel&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" />
+![Profile Views](https://komarev.com/ghpvc/?username=AyathAriel&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
@@ -89,14 +88,15 @@ disponible:  true  # Consultoría · Freelance · Colaboraciones
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyathAriel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyathAriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyathAriel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyathAriel&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyathAriel&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
 
@@ -150,7 +150,5 @@ disponible:  true  # Consultoría · Freelance · Colaboraciones
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<sub>⚡ Construyendo el futuro desde Panamá 🇵🇦 | CEO @ ADO CODE Technologies</sub>
 </div>
